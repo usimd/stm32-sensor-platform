@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints.pretty")(options "")(descr ""))
+  (lib (name "S02-25200300")(type "KiCad")(uri "${KIPRJMOD}/lib/S02-25200300.pretty")(options "")(descr ""))
+  (lib (name "SRP4030FA-3R3M")(type "KiCad")(uri "${KIPRJMOD}/lib/SRP4030FA-3R3M.pretty")(options "")(descr ""))
+  (lib (name "Castellation")(type "KiCad")(uri "${KIPRJMOD}/lib/Castellation.pretty")(options "")(descr ""))
+)
