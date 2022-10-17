@@ -1,7 +1,6 @@
 (sym_lib_table
   (lib (name "STM32WB55CEU6TR")(type "KiCad")(uri "${KIPRJMOD}/lib/STM32WB55CEU6TR.kicad_sym")(options "")(descr ""))
   (lib (name "CONUFL001-SMD-T")(type "KiCad")(uri "${KIPRJMOD}/lib/CONUFL001-SMD-T.kicad_sym")(options "")(descr ""))
-  (lib (name "S1001-46R")(type "KiCad")(uri "${KIPRJMOD}/lib/S1001-46R.kicad_sym")(options "")(descr ""))
   (lib (name "RCLAMP0522P.TCT")(type "KiCad")(uri "${KIPRJMOD}/lib/RCLAMP0522P.TCT.kicad_sym")(options "")(descr ""))
   (lib (name "TPS7A2033PDBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS7A2033PDBVR.kicad_sym")(options "")(descr ""))
   (lib (name "MLPF-WB55-01E3")(type "KiCad")(uri "${KIPRJMOD}/lib/MLPF-WB55-01E3.kicad_sym")(options "")(descr ""))
